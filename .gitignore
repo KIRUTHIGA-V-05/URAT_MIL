@@ -1,0 +1,15 @@
+# datasets
+data/pcam/
+data/pcam_features/
+
+# model & feature files
+*.pt
+*.pth
+*.ckpt
+
+# python cache
+__pycache__/
+*.pyc
+
+# outputs
+outputs/
